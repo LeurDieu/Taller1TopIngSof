@@ -1,0 +1,10 @@
+.card-header
+{
+    font-weight: normal;
+}
+
+#display-list >li:nth-child(1) a,
+#display-list >li:nth-child(2) a
+{
+     text-decoration: underline;
+}
